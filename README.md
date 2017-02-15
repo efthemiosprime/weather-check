@@ -1,1 +1,2 @@
-# weather-check
+# Weather Checker
+Simple RxJS application.
